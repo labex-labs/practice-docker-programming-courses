@@ -9,8 +9,8 @@ Docker is a tool that allows you to run applications in containers. Every contai
 |   Index | Name                                                                              | Level   | Repo                                                               | Course Link                                                    |
 |---------|-----------------------------------------------------------------------------------|---------|--------------------------------------------------------------------|----------------------------------------------------------------|
 |       1 | [Quick Start with Docker](https://labex.io/courses/quick-start-with-docker)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)    | [🚀 Start](https://labex.io/courses/quick-start-with-docker)    |
-|       2 | [Docker Practice Labs](https://labex.io/courses/docker-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 Start](https://labex.io/courses/docker-practice-labs)       |
-|       3 | [Docker Practice Challenges](https://labex.io/courses/docker-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 Start](https://labex.io/courses/docker-practice-challenges) |
+|       2 | [Docker Practice Challenges](https://labex.io/courses/docker-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 Start](https://labex.io/courses/docker-practice-challenges) |
+|       3 | [Docker Practice Labs](https://labex.io/courses/docker-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 Start](https://labex.io/courses/docker-practice-labs)       |
 
 ## More Courses
 
