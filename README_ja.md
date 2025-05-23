@@ -12,9 +12,9 @@ Docker はアプリケーションのデプロイとスケーリングに革命�
 
 |   インデックス | 名前                                                                             | 難易度   | Repo                                                                | 練習                                                                    |
 |----------------|----------------------------------------------------------------------------------|----------|---------------------------------------------------------------------|-------------------------------------------------------------------------|
-|              1 | [Docker のクイックスタート](https://labex.io/ja/courses/quick-start-with-docker) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-docker)    |
-|              2 | [Docker 実践チャレンジ](https://labex.io/ja/courses/docker-practice-challenges)  | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/docker-practice-challenges) |
-|              3 | [Docker 実践ラボ](https://labex.io/ja/courses/docker-practice-labs)              | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 ラボを開始](https://labex.io/ja/courses/docker-practice-labs)       |
+|              1 | [Docker のクイックスタート](https://labex.io/ja/courses/quick-start-with-docker) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-docker)    |
+|              2 | [Docker 実践チャレンジ](https://labex.io/ja/courses/docker-practice-challenges)  | 初級     | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/docker-practice-challenges) |
+|              3 | [Docker 実践ラボ](https://labex.io/ja/courses/docker-practice-labs)              | 初級     | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 ラボを開始](https://labex.io/ja/courses/docker-practice-labs)       |
 
 ## その他
 
