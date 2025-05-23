@@ -12,9 +12,9 @@ Docker 正在彻底改变应用程序的部署和扩展方式。此技能树提�
 
 |   序号 | 名称                                                                      | 难度   | Repo                                                                | 练习                                                                  |
 |--------|---------------------------------------------------------------------------|--------|---------------------------------------------------------------------|-----------------------------------------------------------------------|
-|      1 | [Docker 快速入门](https://labex.io/zh/courses/quick-start-with-docker)    | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-docker)    |
-|      2 | [Docker 实践挑战](https://labex.io/zh/courses/docker-practice-challenges) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/docker-practice-challenges) |
-|      3 | [Docker 实践实验室](https://labex.io/zh/courses/docker-practice-labs)     | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 开始实验](https://labex.io/zh/courses/docker-practice-labs)       |
+|      1 | [Docker 快速入门](https://labex.io/zh/courses/quick-start-with-docker)    | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-docker)    |
+|      2 | [Docker 实践挑战](https://labex.io/zh/courses/docker-practice-challenges) | 初级   | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/docker-practice-challenges) |
+|      3 | [Docker 实践实验室](https://labex.io/zh/courses/docker-practice-labs)     | 初级   | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 开始实验](https://labex.io/zh/courses/docker-practice-labs)       |
 
 ## 更多
 
