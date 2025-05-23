@@ -12,9 +12,9 @@ Docker 는 애플리케이션 배포 및 확장에 혁신을 가져오고 있습
 
 |   인덱스 | 이름                                                                         | 난이도   | Repo                                                                | 연습                                                                   |
 |----------|------------------------------------------------------------------------------|----------|---------------------------------------------------------------------|------------------------------------------------------------------------|
-|        1 | [Docker 퀵 스타트](https://labex.io/ko/courses/quick-start-with-docker)      | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-docker)    |
-|        2 | [Docker 실습 챌린지](https://labex.io/ko/courses/docker-practice-challenges) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/docker-practice-challenges) |
-|        3 | [Docker 실습 랩](https://labex.io/ko/courses/docker-practice-labs)           | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 실습 시작](https://labex.io/ko/courses/docker-practice-labs)       |
+|        1 | [Docker 퀵 스타트](https://labex.io/ko/courses/quick-start-with-docker)      | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-docker)    |
+|        2 | [Docker 실습 챌린지](https://labex.io/ko/courses/docker-practice-challenges) | 초급     | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/docker-practice-challenges) |
+|        3 | [Docker 실습 랩](https://labex.io/ko/courses/docker-practice-labs)           | 초급     | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 실습 시작](https://labex.io/ko/courses/docker-practice-labs)       |
 
 ## 더 보기
 
