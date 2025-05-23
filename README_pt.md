@@ -12,9 +12,9 @@ O Docker está revolucionando a implantação e o dimensionamento de aplicaçõe
 
 |   Índice | Nome                                                                                  | Dificuldade   | Repo                                                                | Prática                                                                  |
 |----------|---------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------|--------------------------------------------------------------------------|
-|        1 | [Início Rápido com Docker](https://labex.io/pt/courses/quick-start-with-docker)       | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-docker)    |
-|        2 | [Desafios Práticos de Docker](https://labex.io/pt/courses/docker-practice-challenges) | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 Iniciar Lab](https://labex.io/pt/courses/docker-practice-challenges) |
-|        3 | [Laboratórios Práticos de Docker](https://labex.io/pt/courses/docker-practice-labs)   | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 Iniciar Lab](https://labex.io/pt/courses/docker-practice-labs)       |
+|        1 | [Início Rápido com Docker](https://labex.io/pt/courses/quick-start-with-docker)       | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-docker)    |
+|        2 | [Desafios Práticos de Docker](https://labex.io/pt/courses/docker-practice-challenges) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 Iniciar Lab](https://labex.io/pt/courses/docker-practice-challenges) |
+|        3 | [Laboratórios Práticos de Docker](https://labex.io/pt/courses/docker-practice-labs)   | Iniciante     | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 Iniciar Lab](https://labex.io/pt/courses/docker-practice-labs)       |
 
 ## Mais
 
