@@ -8,11 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/X5zPui0XRqNx.png">
 </div>
 
-Docker 正在彻底改变应用程序的部署和扩展方式。此技能树提供了一种系统学习 Docker 容器化技术的方法。它非常适合 DevOps 初学者，为理解容器的创建、管理和编排提供了清晰的学习路径。通过实践操作、非视频课程以及在 Docker 实验环境中的实际练习，帮助你掌握在实际场景中对应用程序进行容器化和部署的技能。
+通过这条专为初学者设计的综合学习路径，掌握 Docker。这些动手实践的 Docker 课程提供了一个系统化的方法来精通容器化技术，从创建、管理到编排。本路线图非常适合 DevOps 新手，其中包含在交互式 Docker 演练场中的实践练习，帮助您培养容器化和部署应用程序的实际技能。
 
 |   序号 | 名称                                                                      | 难度   | Repo                                                                | 练习                                                                  |
 |--------|---------------------------------------------------------------------------|--------|---------------------------------------------------------------------|-----------------------------------------------------------------------|
-|      1 | [Docker 快速入门](https://labex.io/zh/courses/quick-start-with-docker)    | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-docker)    |
+|      1 | [Docker 入门指南](https://labex.io/zh/courses/docker-for-beginners)       | 初级   | [🔗 Repo](https://github.com/labex-labs/docker-for-beginners)       | [🚀 开始实验](https://labex.io/zh/courses/docker-for-beginners)       |
 |      2 | [Docker 实践挑战](https://labex.io/zh/courses/docker-practice-challenges) | 初级   | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/docker-practice-challenges) |
 |      3 | [Docker 实践实验室](https://labex.io/zh/courses/docker-practice-labs)     | 初级   | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 开始实验](https://labex.io/zh/courses/docker-practice-labs)       |
 
