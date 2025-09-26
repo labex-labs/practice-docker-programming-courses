@@ -8,11 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/X5zPui0XRqNx.png">
 </div>
 
-O Docker está revolucionando a implantação e o dimensionamento de aplicações. Esta Skill Tree oferece uma forma sistemática de aprender containerização com Docker. Ideal para iniciantes em DevOps, fornece um roteiro claro para entender a criação, gerenciamento e orquestração de containers. Cursos práticos, sem vídeos, e exercícios práticos em um playground Docker ajudam você a desenvolver habilidades do mundo real na containerização e implantação de aplicações.
+Aprenda Docker com este caminho de aprendizagem abrangente, projetado para iniciantes. Estes cursos práticos de Docker oferecem uma forma sistemática de dominar a contentorização, desde a criação e gestão até à orquestração. Ideal para quem é novo em DevOps, este roteiro apresenta exercícios práticos num ambiente interativo de Docker, ajudando a desenvolver competências reais para contentorizar e implementar aplicações.
 
 |   Índice | Nome                                                                                  | Dificuldade   | Repo                                                                | Prática                                                                  |
 |----------|---------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------|--------------------------------------------------------------------------|
-|        1 | [Início Rápido com Docker](https://labex.io/pt/courses/quick-start-with-docker)       | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-docker)    |
+|        1 | [Docker para Iniciantes](https://labex.io/pt/courses/docker-for-beginners)            | Iniciante     | [🔗 Repo](https://github.com/labex-labs/docker-for-beginners)       | [🚀 Iniciar Lab](https://labex.io/pt/courses/docker-for-beginners)       |
 |        2 | [Desafios Práticos de Docker](https://labex.io/pt/courses/docker-practice-challenges) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 Iniciar Lab](https://labex.io/pt/courses/docker-practice-challenges) |
 |        3 | [Laboratórios Práticos de Docker](https://labex.io/pt/courses/docker-practice-labs)   | Iniciante     | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 Iniciar Lab](https://labex.io/pt/courses/docker-practice-labs)       |
 
